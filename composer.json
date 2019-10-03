@@ -1,0 +1,18 @@
+{
+    "name": "rajesh-kc/doveport-geoip",
+    "description": "Get location information from IP",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "Rajesh Kumar Chukka",
+            "email": "rajesh.kc681@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Rajeshkc\\Geoip\\": "src/"
+        }
+    },
+}
