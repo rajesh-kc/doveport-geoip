@@ -1,7 +1,6 @@
 {
     "name": "rajesh-kc/doveport-geoip",
     "description": "Get location information from IP",
-    "type": "composer-plugin",
     "authors": [
         {
             "name": "Rajesh Kumar Chukka",
